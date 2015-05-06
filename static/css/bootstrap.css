@@ -226,7 +226,7 @@
 }
 .page-features {
     position: relative;
-    background: url(../images/pages/features/q_bck.jpg) 50% 0 no-repeat fixed;
+    background: url(../images/pages/features/q_bck_2.jpg) 50% 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1065,8 +1065,7 @@ footer {
     margin-top: -22px;
 }
 .overlay:after {
-    background: url("data:image/png;
-    base64, iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAHUlEQVQIW2NkYGD4D8SM6DRIAAQwJDFUwhRRUQcALRkSBISGlPAAAAAASUVORK5CYII=") repeat top left;
+    background: url("data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAHUlEQVQIW2NkYGD4D8SM6DRIAAQwJDFUwhRRUQcALRkSBISGlPAAAAAASUVORK5CYII=") repeat top left;
     content: "";
     display: block;
     position: absolute;
